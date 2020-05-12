@@ -25,7 +25,7 @@ import android.app.Activity
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.support.annotation.UiThread
+import androidx.annotation.UiThread
 import android.util.Log
 import com.hellobike.flutter.thrio.OnNotifyListener
 import com.hellobike.flutter.thrio.PoppedResult

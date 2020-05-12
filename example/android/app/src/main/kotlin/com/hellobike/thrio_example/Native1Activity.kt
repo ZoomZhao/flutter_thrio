@@ -1,7 +1,7 @@
 package com.hellobike.thrio_example
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.util.Log
 import com.hellobike.flutter.thrio.OnNotifyListener
 import com.hellobike.flutter.thrio.ThrioNavigator
